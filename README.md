@@ -30,14 +30,28 @@ A estrutura de diretórios segue um modelo padronizado e modular:
 ```text
 Meu_Study_Hub_TI/
 │
-├── 01_Apresentacao_e_Perfil/       # Informações profissionais, bio e certificações
+├── 01_Apresentacao_e_Perfil/
+│   ├── README.md      # Informações profissionais, bio e certificações
 ├── 02_Disciplinas_Atuais/          # Conteúdo programático e atividades das matérias
 │   ├── Banco_de_Dados/
+│   │   ├── Anotacoes_e_Resumos/
+│   │   └── Atividades_e_Entregas/
 │   ├── Bootcamp_I/
 │   │   ├── Anotacoes_e_Resumos/
 │   │   └── Atividades_e_Entregas/
 │   ├── CiberSeguranca/
+│   │   ├── Anotacoes_e_Resumos/
+│   │   └── Atividades_e_Entregas/
 │   ├── Engenharia_de_Software/
+│   │   ├── Anotacoes_e_Resumos/
+│   │   └── Atividades_e_Entregas/
 │   ├── Fundamentos_de_Engenharia/
+│   │   ├── Anotacoes_e_Resumos/
+│   │   └── Atividades_e_Entregas/
 │   └── Logica_de_Programacao/
-└── 03_Projetos_e_Certificados/     # Projetos autorais, laboratórios práticos e certificados
+│   │   ├── Anotacoes_e_Resumos/
+│   │   └── Atividades_e_Entregas/
+└── 03_Projetos_e_Certificados/ # Projetos autorais, laboratórios práticos e certificados
+│   └── Certificados/
+│   └── Projetos/     
+└── README.md/ # README principal do Repositório 
