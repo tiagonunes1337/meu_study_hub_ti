@@ -54,4 +54,4 @@ Meu_Study_Hub_TI/
 └── 03_Projetos_e_Certificados/ # Projetos autorais, laboratórios práticos e certificados
 │   └── Certificados/
 │   └── Projetos/     
-└── README.md/ # README principal do Repositório 
+└── README.md # README principal do Repositório 
