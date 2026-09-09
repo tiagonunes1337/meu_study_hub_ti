@@ -39,7 +39,7 @@ Meu_Study_Hub_TI/
 │   ├── Bootcamp_I/
 │   │   ├── Anotacoes_e_Resumos/
 │   │   └── Atividades_e_Entregas/
-│   ├── CiberSeguranca/
+│   ├── Segurança Cibernética/
 │   │   ├── Anotacoes_e_Resumos/
 │   │   └── Atividades_e_Entregas/
 │   ├── Engenharia_de_Software/
